@@ -1,4 +1,4 @@
-![Screenshot](https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/BMI_chart.png/800px-BMI_chart.png)
+![Screenshot](BMI_chart.png)
 ![Screenshot](bmi.jpg)
 
 
